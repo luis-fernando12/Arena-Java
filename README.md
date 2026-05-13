@@ -1,3 +1,4 @@
+<img width="600" height="374" alt="Fight! Free Pixel Font - Mehmet Reha Tuğcu" src="https://github.com/user-attachments/assets/05632c7b-0cb5-4d5c-a311-7c7569207f3f" />
 <h1 align="center">⚔️ Soul of Fighters</h1>
 
 <p align="center">
